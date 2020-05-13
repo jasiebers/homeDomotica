@@ -15,7 +15,7 @@ voltageMean = []
 voltageMax = []
 voltageMin = []
 
-for i in range(1,12):
+for i in range(0,12):
     verbruik = []
     opwek = []
     voltage = []
